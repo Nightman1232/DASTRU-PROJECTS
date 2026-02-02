@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Downloads\Linklist\linklist\bin\Debug\linklist.exe.config
+C:\Users\ACT-STUDENT\Downloads\Linklist\linklist\bin\Debug\linklist.exe
+C:\Users\ACT-STUDENT\Downloads\Linklist\linklist\bin\Debug\linklist.pdb
+C:\Users\ACT-STUDENT\Downloads\Linklist\linklist\obj\Debug\linklist.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\Linklist\linklist\obj\Debug\linklist.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\Linklist\linklist\obj\Debug\linklist.exe
+C:\Users\ACT-STUDENT\Downloads\Linklist\linklist\obj\Debug\linklist.pdb
+C:\Users\ACT-STUDENT\Downloads\Linklist\linklist\obj\Debug\linklist.exe.config

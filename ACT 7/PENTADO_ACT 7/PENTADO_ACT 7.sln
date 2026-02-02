@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PENTADO_ACT 7", "PENTADO_ACT 7.csproj", "{DAAA901F-C1C6-496D-80BF-105C8A7FC080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAAA901F-C1C6-496D-80BF-105C8A7FC080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAA901F-C1C6-496D-80BF-105C8A7FC080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAA901F-C1C6-496D-80BF-105C8A7FC080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAA901F-C1C6-496D-80BF-105C8A7FC080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEEA0A52-84F5-488A-9479-81950F2424A1}
+	EndGlobalSection
+EndGlobal
