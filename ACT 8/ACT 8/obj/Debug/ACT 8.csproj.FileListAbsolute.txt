@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Documents\ACT 8\ACT 8\ACT 8\bin\Debug\ACT 8.exe.config
+C:\Users\ACT-STUDENT\Documents\ACT 8\ACT 8\ACT 8\bin\Debug\ACT 8.exe
+C:\Users\ACT-STUDENT\Documents\ACT 8\ACT 8\ACT 8\bin\Debug\ACT 8.pdb
+C:\Users\ACT-STUDENT\Documents\ACT 8\ACT 8\ACT 8\obj\Debug\ACT 8.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Documents\ACT 8\ACT 8\ACT 8\obj\Debug\ACT 8.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Documents\ACT 8\ACT 8\ACT 8\obj\Debug\ACT 8.exe
+C:\Users\ACT-STUDENT\Documents\ACT 8\ACT 8\ACT 8\obj\Debug\ACT 8.pdb
+C:\Users\ACT-STUDENT\Documents\ACT 8\ACT 8\ACT 8\obj\Debug\ACT 8.exe.config
