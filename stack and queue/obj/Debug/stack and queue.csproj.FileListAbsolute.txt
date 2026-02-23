@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\stack and queue\bin\Debug\stack and queue.exe.config
+C:\Users\ACT-STUDENT\source\repos\stack and queue\bin\Debug\stack and queue.exe
+C:\Users\ACT-STUDENT\source\repos\stack and queue\bin\Debug\stack and queue.pdb
+C:\Users\ACT-STUDENT\source\repos\stack and queue\obj\Debug\stack and queue.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\stack and queue\obj\Debug\stack and queue.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\stack and queue\obj\Debug\stack and queue.exe
+C:\Users\ACT-STUDENT\source\repos\stack and queue\obj\Debug\stack and queue.pdb
+C:\Users\ACT-STUDENT\source\repos\stack and queue\obj\Debug\stack and queue.exe.config
