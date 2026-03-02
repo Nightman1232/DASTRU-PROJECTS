@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\ACTIVITY 9  Stack in Procedural Approach\bin\Debug\ACTIVITY 9  Stack in Procedural Approach.exe.config
+C:\Users\ACT-STUDENT\source\repos\ACTIVITY 9  Stack in Procedural Approach\bin\Debug\ACTIVITY 9  Stack in Procedural Approach.exe
+C:\Users\ACT-STUDENT\source\repos\ACTIVITY 9  Stack in Procedural Approach\bin\Debug\ACTIVITY 9  Stack in Procedural Approach.pdb
+C:\Users\ACT-STUDENT\source\repos\ACTIVITY 9  Stack in Procedural Approach\obj\Debug\ACTIVITY 9  Stack in Procedural Approach.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\ACTIVITY 9  Stack in Procedural Approach\obj\Debug\ACTIVITY 9  Stack in Procedural Approach.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\ACTIVITY 9  Stack in Procedural Approach\obj\Debug\ACTIVITY 9  Stack in Procedural Approach.exe
+C:\Users\ACT-STUDENT\source\repos\ACTIVITY 9  Stack in Procedural Approach\obj\Debug\ACTIVITY 9  Stack in Procedural Approach.pdb
+C:\Users\ACT-STUDENT\source\repos\ACTIVITY 9  Stack in Procedural Approach\obj\Debug\ACTIVITY 9  Stack in Procedural Approach.exe.config
