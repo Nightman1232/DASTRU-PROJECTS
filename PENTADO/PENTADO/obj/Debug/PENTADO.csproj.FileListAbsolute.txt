@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\dcbhavsdhcvsad\PENTADO\PENTADO\bin\Debug\PENTADO.exe.config
+C:\Users\ACT-STUDENT\Desktop\dcbhavsdhcvsad\PENTADO\PENTADO\bin\Debug\PENTADO.exe
+C:\Users\ACT-STUDENT\Desktop\dcbhavsdhcvsad\PENTADO\PENTADO\bin\Debug\PENTADO.pdb
+C:\Users\ACT-STUDENT\Desktop\dcbhavsdhcvsad\PENTADO\PENTADO\obj\Debug\PENTADO.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\dcbhavsdhcvsad\PENTADO\PENTADO\obj\Debug\PENTADO.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\dcbhavsdhcvsad\PENTADO\PENTADO\obj\Debug\PENTADO.exe
+C:\Users\ACT-STUDENT\Desktop\dcbhavsdhcvsad\PENTADO\PENTADO\obj\Debug\PENTADO.pdb
+C:\Users\ACT-STUDENT\Desktop\dcbhavsdhcvsad\PENTADO\PENTADO\obj\Debug\PENTADO.exe.config
